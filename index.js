@@ -22,3 +22,4 @@ secondImg.setAttribute("src", imageSource2);
         document.querySelector("h1").innerHTML = "Player 2 Wins 🚩"
     }
 
+git
